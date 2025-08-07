@@ -1,10 +1,8 @@
-# 📝 Customer Satisfaction Survey Analysis
+# Customer Satisfaction Survey Analysis
 
 This project analyzes customer satisfaction survey data collected from multiple regions and age groups. It aims to uncover insights that can inform business strategy, improve customer experience, and support decision-making.
 
-## 📊 Dataset
-
-The dataset contains 200 survey responses with the following columns:
+## The dataset contains 200 survey responses with the following columns:
 
 - `RespondentID`: Unique ID per respondent  
 - `Region`: Customer's region (North, South, East, West)  
@@ -13,13 +11,14 @@ The dataset contains 200 survey responses with the following columns:
 - `ProductQuality`: Rating of product quality (1–5)  
 - `SupportRating`: Rating of customer support experience (1–5)  
 
-## 📈 Key Analyses
+## Key Analyses
 
 - Descriptive statistics of survey responses  
 - Satisfaction trends by region and age group  
 - Correlation between satisfaction, product quality, and support rating  
 - Visual insights using bar charts, boxplots, and heatmaps  
 
-## 📂 Project Structure
+## 
+
 
 
